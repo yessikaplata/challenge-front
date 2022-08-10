@@ -6,4 +6,3 @@ Challenge to learn front developmet
   <li>Challege #1: Product preview card component solution
   </li>
 </ol>
-[someLabel](/../../product-card/)
